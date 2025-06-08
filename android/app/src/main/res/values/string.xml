@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">txt_reader_flut</string>
+    <string name="accessibility_service_description">My Accessibility Service</string>
+</resources>
